@@ -1,0 +1,4 @@
+# my bashrc file
+source /Users/sonic/bin/dotfiles/bash/env
+source /Users/sonic/bin/dotfiles/bash/alias
+source /Users/sonic/bin/dotfiles/bash/prompt

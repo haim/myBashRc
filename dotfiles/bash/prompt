@@ -1,0 +1,3 @@
+#prompt
+
+PS1='\n\u@\h : [$PWD$]\n→ '

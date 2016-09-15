@@ -1,0 +1,17 @@
+# ALIAS
+
+alias mypublicip='curl https://ifconfig.co/'
+alias l='ls -la'
+alias mysql.start='mysql.server start'
+alias mysql.stop='mysql.server stop'
+alias mysql.status='mysql.server status'
+
+alias apache.start='sudo apachectl start'
+alias apache.stop='sudo apachectl stop'
+alias apache.restart='sudo apachectl restart'
+alias apache.configtest='apachectl configtest'
+
+take(){
+	mkdir $1
+	cd $1
+}
