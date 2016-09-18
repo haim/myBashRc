@@ -6,4 +6,3 @@ export PATH=${PATH}:/Users/sonic/Library/Android/sdk/tools
 export PATH=${PATH}:/Users/sonic/Library/Android/sdk/platform-tools
 
 export PATH="$(brew --prefix homebrew/php/php56)/bin:$PATH"
-export ORO_PHP_PATH=$PATH:/usr/local/opt/php56/bin/php
