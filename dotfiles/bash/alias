@@ -1,7 +1,11 @@
 # ALIAS
 
 alias mypublicip='curl https://ifconfig.co/'
+
 alias l='ls -laGfh'
+
+alias top='top -o cpu'
+
 alias mysql.start='mysql.server start'
 alias mysql.stop='mysql.server stop'
 alias mysql.status='mysql.server status'
